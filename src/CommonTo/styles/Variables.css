@@ -1,0 +1,28 @@
+:root{
+    --background: #000000;
+    --white: #ffffff;
+    --text-gradient-bg: rgb(241, 190, 80);
+    --text-gradient-1: linear-gradient(
+        90deg,
+        rgba(105, 234, 205, 1) 0%,
+        rgba(234, 204, 248, 1) 50%,
+        rgb(233, 220, 44) 100%
+    );
+
+    --text-gradient-bg-1: rgb(57, 37, 170);
+    --text-gradient-2: linear-gradient(
+        90deg,
+        rgba(105, 234, 205, 1) 0%,
+        rgba(234, 204, 248, 1) 50%,
+        rgb(57, 37, 170) 100%
+    );
+
+    --btn-bg: #2f80ed;
+    --card-border: #282525;
+    
+
+
+
+
+
+}

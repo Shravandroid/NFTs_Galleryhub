@@ -1,0 +1,10 @@
+.brands-integration{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.brands-integration img{
+    width: 15%;
+    margin: 50px;
+}
