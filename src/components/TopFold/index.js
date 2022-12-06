@@ -15,8 +15,7 @@ const TopFold = () => {
         <div className='tf-details-1'>Trending NFT's: Bored Ape, Voluptuous Curves, The Melting Pot, Zibaldone, An Eternal Tapestry</div>
         <div className='tf-left-btns'>
           <Button btnType="PRIMARY" btnText="Explore"/>
-          <Button btnType="SECONDARY" btnText="Create" customClass="tf-left-secondary-btn"/>
-        </div>
+          <Button btnType="SECONDARY" btnText="Create" customClass="tf-left-secondary-btn"/> </div>
         <TopFoldInfostats />
       </div>
 
